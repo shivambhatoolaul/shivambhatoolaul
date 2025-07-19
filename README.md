@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm currently a Software Developer & DevOps Engineer working with Salesforce at the Royal Bank of Canada (RBC).
 
-- 🏫 I studied Computer Science at the University of Toronto and graduated in 2023!
+- 🏫 I ~~survived~~ studied Computer Science at the University of Toronto and graduated in 2023!
 
 - 🎥 I've been into video editing since I was 12.
 
