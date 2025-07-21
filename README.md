@@ -4,9 +4,7 @@
 
 - 🏫 I ~~survived~~ studied Computer Science at the University of Toronto and graduated in 2023!
 
-- 🎥 I've been into video editing since I was 12.
-
-- 💪 I love calisthenics! I have most notably unlocked moves like the Handstand Pushup, Human Flag, Front Lever, One-Arm Pullup, and Planche. I am currently working towards the Planche Press and Pushup.
+- 💪 I love calisthenics! I've unlocked moves like the Handstand Pushup, Human Flag, Front Lever, One-Arm Pullup, and Planche. I am currently working towards the Planche Press and Pushup.
 
 - ⛳ I started golfing this past year. Few holes, I par. Some holes, quintuple bogey. I am trying to break 100 by the end of summer.
   
