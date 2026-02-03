@@ -1,6 +1,6 @@
 # 👋 Hi, my name's Shivam!
 
-- 👨🏻‍💻 I'm currently a Salesforce DevOps Engineer at the Royal Bank of Canada (RBC).
+- 👨🏻‍💻 I'm currently a Senior DevOps Engineer at the Royal Bank of Canada (RBC).
 
 - 🏫 I ~~survived~~ studied Computer Science at the University of Toronto and graduated in 2023!
 
