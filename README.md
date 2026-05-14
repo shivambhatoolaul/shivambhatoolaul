@@ -1,11 +1,9 @@
-# 👋 Hi, my name's Shivam!
+# 👋 hi, my name's shivam!
 
-- 👨🏻‍💻 I'm currently a Senior DevOps Engineer at the Royal Bank of Canada (RBC).
+- 👨🏻‍💻 i'm currently a senior devops engineer at the royal bank of canada (rbc)
 
-- 🏫 I ~~survived~~ studied Computer Science at the University of Toronto and graduated in 2023!
-
-- 📱 I try to be a digital minimalist...
+- 🏫 i ~~survived~~ studied computer science at the university of toronto and graduated in 2023
   
-- 🤸‍♂️ I love calisthenics! I've unlocked moves like the Handstand Pushup, Human Flag, One-Arm Pullup, and Planche. And, I'm currently working towards the Planche Press and Pushup.
+- 🤸‍♂️ i love calisthenics! i've unlocked moves like the handstand pushup, human flag, one-arm pullup, and planche. and, i'm currently working towards the planche press and pushup
 
-- 💻 Sometimes (sometimes) I also code outside of work. See some of my projects below...
+- 💻 i try to be a digital minimalist outside of work... but sometimes (sometimes) i still code. see some of my personal projects below...
